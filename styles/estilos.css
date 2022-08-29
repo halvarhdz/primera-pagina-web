@@ -10,7 +10,7 @@ body {
   transition: 0.5s ease all;
 }
 body.dark {
-  background: #000;
+  background: #000000;
 }
 
 /*a {
@@ -62,7 +62,7 @@ nav {
 a {
   flex: 1;
   background-color: rgb(77, 97, 185);
-  color: #fff;
+  color: #FFFFFF;
   border: 1px solid;
   text-align: center;
   text-decoration: none;
@@ -80,7 +80,7 @@ a {
 
 a:hover,
 a:focus {
-  background-color: #fff;
+  background-color: #FFFFFF;
   color: rgb(77, 97, 185);
   cursor: pointer;
 }
